@@ -1,0 +1,7 @@
+print("Welcome to the world of programming!")
+print(5)
+print("Hello Python")
+print("What is your name? \nHow old are you?")
+print("Text", 5)
+print("If you live in Miami, \nthen you live in Florida.")
+print("Numbers of cars I sold today is:",5)
